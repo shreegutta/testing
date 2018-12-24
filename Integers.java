@@ -1,5 +1,5 @@
 class Integers {
-   public static void main(string [] arguments) {
+   public static void main(String [] arguments) {
         int c ; //declaring a variable
 
 
