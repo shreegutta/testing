@@ -1,15 +1,15 @@
 class Integers {
-   public static void main (String [] arguments) {
-        int c; //declaring a variable
+   public static void main(string [] arguments) {
+        int c ; //declaring a variable
 
 
-   //* using for loop to repeat instruction execution *//
+   /* using for loop to repeat instruction execution */
 
         for (c = 1; c <= 10; c++) {
-          system.out.println(c);
+          System.out.println(c);
       }
-      system.out.println("End of for loop - All the best to Shree");
-      system.out.println("This is contionous deployment testing");
+      System.out.println("End of for loop - All the best to Shree");
+      System.out.println("This is contionous deployment testing");
    }
 }
 
