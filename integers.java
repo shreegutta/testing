@@ -6,7 +6,7 @@ class Integers {
           system.out.println(c);
       }
       system.out.println("End of for loop - All the best to Shree");
-      system.out.println("This is devops contionous deployment testing");
+      system.out.println("This is contionous deployment testing");
    }
 }
 
